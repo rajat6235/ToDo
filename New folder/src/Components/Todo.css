@@ -1,0 +1,32 @@
+.card{
+    background-color: #F1F9FF;
+    border: 2px solid  #CDE7FE;
+    width: auto;
+    text-size-adjust: auto;
+    height: auto;
+}
+.card-text{
+    color: #BEC3C6;
+    cursor: pointer;
+    font-size: inherit;
+}
+.card-title{
+    color: #2699FB;
+    cursor: pointer;
+    text-size-adjust: auto;
+    font-size:inherit;
+  
+}
+.line-through{
+    color: white ;
+  
+
+}
+.card-body{
+    color: white;
+ 
+}
+.dlt{
+cursor: pointer;
+    color:red;
+}

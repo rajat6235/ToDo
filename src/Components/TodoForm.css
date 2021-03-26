@@ -1,0 +1,21 @@
+.btn{
+    background-color: #2699FB;
+    color: white;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.inputss{
+align-items: center;
+}
+.titlei{
+    border:2px solid #CDE7FE;
+    
+}
+.taski{
+    border:2px solid #CDE7FE;
+    height: 150px;;
+   margin-top: 10px;
+}
+.space{
+    height: 100px;
+}
